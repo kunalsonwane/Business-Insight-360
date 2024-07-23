@@ -1,6 +1,4 @@
 # Business-Insight-360
-
-**AtliQ Hardwares Power BI Report**
 =====================================
 
 **Project Overview**

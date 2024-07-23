@@ -1,5 +1,4 @@
 # Business-Insight-360
-Here's a GitHub README template for your Power BI project:
 
 **AtliQ Hardwares Power BI Report**
 =====================================
